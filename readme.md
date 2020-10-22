@@ -5,4 +5,4 @@
 This repository is where my first homework assigment for refactoring takes place. As I move along in the course, I hope to have learned how to write better README files.
 
 ## 
-![Image of Yaktocat](https://github.com/robertsantos-dfw/01-Homework/images/capture.png)
+![Screenshot](https://github.com/robertsantos-dfw/01-Homework/assets/images/capture.png)
